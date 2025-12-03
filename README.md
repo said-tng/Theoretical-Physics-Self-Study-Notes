@@ -63,7 +63,7 @@ The theoretical knowledge gathered in this repository was applied to build a fun
 
 * **Project Goal:** To visualize the collapse of wave functions and the dynamics of decoherence.
 * **Verification:** The simulation logic was reviewed and verified by Prof. Unlu.
-* **Link to Project Repo:** [INSERT LINK TO YOUR SIMULATION REPO HER]
+* **Link to Project Repo:** 
 
 ---
 

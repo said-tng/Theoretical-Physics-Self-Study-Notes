@@ -5,11 +5,11 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📖 Overview
-This repository serves as documentation for a rigorous 3-year self-study program designed to bridge the gap between high school curriculum and advanced theoretical physics.
+This repository serves as documentation for my 3-years long self-study program designed to build the foundation for studying quantum field theory.
 
-Seeking a rigorous logic absent in standard curricula, I self-studied **Tom M. Apostol's *Calculus*** (Vol. 1) to master derivation from first principles. This mathematical foundation enabled me to progress through MIT OpenCourseWare syllabi for Multivariable Calculus, Linear Algebra, and Quantum Mechanics.
+Due to my seek for rigorous foundation, I self-studied **Tom M. Apostol's *Calculus*** (Vol. 1) to master derivation from first principles. This mathematical foundation enabled me to progress through MIT OpenCourseWare syllabi for Multivariable Calculus, Linear Algebra, and Quantum Mechanics.
 
-**Objective:** To build the mathematical maturity required to understand Quantum Field Theory and engineer quantum simulations.
+**Objective:** To build the mathematical foundation required to understand Quantum Field Theory and engineer quantum simulations.
 
 ---
 
@@ -38,7 +38,7 @@ The study was conducted in two distinct phases: **Mathematics** (The Toolset) an
 ### `/02_Multivariable_Calculus_MIT_1802`
 * **Focus:** Vector Analysis and Field Theory.
 * **Content:**
-    * [Vector_Calculus_Notes.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/02_Multivariable_Calculus_MIT_1802/Vector_Calculus_Notes.pdf): Comprehensive notes covering **Gradient, Divergence, and Curl**. Includes derivations of **Green's Theorem** and **Stokes' Theorem** (essential prerequisites for Electromagnetism).
+    * [Vector_Calculus_Notes.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/02_Multivariable_Calculus_MIT_1802/Vector_Calculus_Notes.pdf): Notes covering **Gradient, Divergence, and Curl**. Includes derivations of **Green's Theorem** and **Stokes' Theorem** (essential prerequisites for Electromagnetism).
 
 ### `/03_Linear_Algebra_MIT_1806`
 * **Focus:** Matrix Factorization and Spectral Theory.
@@ -53,8 +53,8 @@ The study was conducted in two distinct phases: **Mathematics** (The Toolset) an
 ### `/05_Quantum_Mechanics_MIT_804_805`
 * **Focus:** Wave mechanics, Operator formalism, and Entanglement.
 * **Content:**
-    * [Quantum_Physics_1_Notes.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/05_Quantum_Mechanics_MIT_804_805/Quantum_Physics_1_Notes.pdf): Synthesized notes covering the **Schrödinger Equation**, **1D Potentials** (Infinite Well), and the **Harmonic Oscillator** (Algebraic & Analytic methods). Includes analysis of Scattering and Tunneling phenomena.
-    * [Quantum_Physics_2_Notes.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/05_Quantum_Mechanics_MIT_804_805/Quantum_Physics_2_Notes.pdf): Advanced notes on **General Formalism** (Dirac Notation), **Spin-1/2 Systems** (Pauli Matrices), and **Angular Momentum**. Detailed derivation of **Bell's Inequalities** and Quantum Entanglement dynamics.
+    * [Quantum_Physics_1_Notes.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/05_Quantum_Mechanics_MIT_804_805/Quantum_Physics_1_Notes.pdf): Synthesized notes covering the **Schrödinger Equation**, **1D Potentials** (Infinite Well), and the **Harmonic Oscillator** (Algebraic & Analytic methods). Includes analysis of Scattering and Tunneling phenomena. Derivation of Spin Theory from its first principle.
+    * [Quantum_Physics_2_Notes.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/05_Quantum_Mechanics_MIT_804_805/Quantum_Physics_2_Notes.pdf): Advanced notes on **General Formalism** (Dirac Notation), **Spin-1/2 Systems** (Pauli Matrices), and **Angular Momentum**. Detailed derivation of **Bell's Inequalities** and Quantum Entanglement dynamics on multi qubit systems.
     * [Selected_Hard_Problems.pdf](https://github.com/said-tng/Theoretical-Physics-Self-Study-Notes/blob/main/Theoretical_Foundations/05_Quantum_Mechanics_MIT_804_805/Selected_Hard_Problems.pdf): Solutions to high-difficulty problem sets (e.g., Stern-Gerlach experiments).
 
 ---
